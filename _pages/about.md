@@ -17,42 +17,27 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
-
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+I specialize in computational linguistics and natural language processing (NLP), focusing on enhancing models for Portuguese language understanding. My experience includes fine-tuning machine learning models, annotating and analyzing linguistic data, and developing automated tools to support language analysis. I’m dedicated to using data-driven insights to explore language complexity, improve natural language understanding, and support linguistic research through a combination of quantitative analysis, corpus linguistics, and programming.
 
 # 📝 Publications 
+Erjavec, T. et al. ParlaMint: Comparable Corpora of European Parliamentary Data. CLARIN,
+2021.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+Chapter: Dutra, D., Queiroz, J., Macedo, L., Costa, D., Mattos, E.: Adjectives as Nominal Pre-modifiers in Chemistry and Applied Linguistics in Research Articles - Advances in Corpus- based Research on Academic Writing: Effects of discipline, register, and writer expertise: edited by Ute Römer, Viviana Cortes, Eric Friginal, John Benjamins Publishing Company, 2020.
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+Macedo, L., Costa, D., Lexical Bundles Conveying Modality in Argumentative e Essays of EAP Students: a corpus-based study. ANAIS DO X CONGRESSO INTERNACIONAL, ABRALIN, pp. 2068-2076, 2017. 
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+# 📖 Education
+- *2016 - 2018*, Master's Degree in Applied Linguistics - Thesis: Lexical Bundles in Sections of Applied Linguistics Research Articles: Advisor: Prof. Deise Dutra. Universidade Federal de Minas Gerais, Belo Horizonte-MG
+- *2006 - 2010*, Bachelor's Degree in English language and literature. Main courses: Second and first language teaching and learning, syntax, phonology, semantics, sociolinguistics, applied linguistics regarding Brazil- ian Portuguese and other languages.
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+# 💬 Work experience
+- *10/21 - 02/23* NLU developer Cerence, remote freelancing
+Development and testing of grammars for NLU (pt-BR and pt-PT); text ma- nipulation and data processing; localization of data; accuracy and coverage improvement; prepare and release models biweekly.
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *10/18 - 08/20* Associate Linguist for Google Lionbridge, São Paulo, Brazil Linguistic expertise in developing NLP tools for Brazilian Portuguese. My position mainly involved developing grammars; creating templates for Natural Language Understanding; evaluating current system outputs; annotating and reviewing linguistic data; labelling text for disambiguation, expansion, and text normalization; research, development, and experimental projects.
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *08/18 - 10/18* Technical writer LexisNexis Risk Solutions, São Paulo, Brazil Writing, translation, editing, and proofreading of IT and Software manuals and procedures, En-Pt and Pt-En.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *08/12 - 08/18* English and Portuguese (L2) teacher Rizvi Intl Schools Classes tailored for business students at multinational companies.
