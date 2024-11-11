@@ -25,7 +25,7 @@ author:
   avatar           : "images/luciana_profile.png"
   bio              : "MA in Applied Linguistics (UFMG)"
   location         : "Philadelphia PA"
-  employer         :
+  CV               : "_pages/LucianaDMacedo_CL_CV.pdf"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=_iXeRwIAAAAJ&hl=en"
   email            : "lucianadiasdemacedo@gmail.com"
@@ -136,7 +136,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

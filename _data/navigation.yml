@@ -6,11 +6,17 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Education"
-    url: "/#-education"
-
   - title: "Work Experience"
     url: "/#-work-experience"
 
-  - title: "Link to CV "
+  - title: "Teaching Experience"
+    url: "/#-teaching-experience"
+
+  - title: "Current Projects"
+    url: "/#-current-projects"
+
+  - title: "Education"
+    url: "/#-education"
+  
+  - title: "Link to CV"
     url: "/#-link-to-cv"
