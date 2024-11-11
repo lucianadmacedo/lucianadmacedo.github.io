@@ -9,5 +9,8 @@ main:
   - title: "Education"
     url: "/#-education"
 
-  - title: "Work experince"
+  - title: "Work Experience"
     url: "/#-work-experience"
+
+  - title: "Link to CV "
+    url: "/#-link-to-cv"

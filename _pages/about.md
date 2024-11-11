@@ -19,7 +19,7 @@ redirect_from:
 
 I specialize in computational linguistics and natural language processing (NLP), focusing on enhancing models for Portuguese language understanding. My experience includes fine-tuning machine learning models, annotating and analyzing linguistic data, and developing automated tools to support language analysis. I’m dedicated to using data-driven insights to explore language complexity, improve natural language understanding, and support linguistic research through a combination of quantitative analysis, corpus linguistics, and programming.
 
-# 📝 Publications 
+# Publications 
 Erjavec, T. et al. ParlaMint: Comparable Corpora of European Parliamentary Data. CLARIN,
 2021.
 
@@ -28,11 +28,11 @@ Chapter: Dutra, D., Queiroz, J., Macedo, L., Costa, D., Mattos, E.: Adjectives a
 Macedo, L., Costa, D., Lexical Bundles Conveying Modality in Argumentative e Essays of EAP Students: a corpus-based study. ANAIS DO X CONGRESSO INTERNACIONAL, ABRALIN, pp. 2068-2076, 2017. 
 
 
-# 📖 Education
+# Education
 - *2016 - 2018*, Master's Degree in Applied Linguistics - Thesis: Lexical Bundles in Sections of Applied Linguistics Research Articles: Advisor: Prof. Deise Dutra. Universidade Federal de Minas Gerais, Belo Horizonte-MG
 - *2006 - 2010*, Bachelor's Degree in English language and literature. Main courses: Second and first language teaching and learning, syntax, phonology, semantics, sociolinguistics, applied linguistics regarding Brazil- ian Portuguese and other languages.
 
-# 💬 Work experience
+# Work experience
 - *10/21 - 02/23* NLU developer Cerence, remote freelancing
 Development and testing of grammars for NLU (pt-BR and pt-PT); text ma- nipulation and data processing; localization of data; accuracy and coverage improvement; prepare and release models biweekly.
 
@@ -41,3 +41,6 @@ Development and testing of grammars for NLU (pt-BR and pt-PT); text ma- nipulati
 - *08/18 - 10/18* Technical writer LexisNexis Risk Solutions, São Paulo, Brazil Writing, translation, editing, and proofreading of IT and Software manuals and procedures, En-Pt and Pt-En.
 
 - *08/12 - 08/18* English and Portuguese (L2) teacher Rizvi Intl Schools Classes tailored for business students at multinational companies.
+
+# Link to CV
+[View my CV](/workspaces/lucianadmacedo.github.io/docs/LucianaDMacedo_CL_CV.pdf)
