@@ -19,6 +19,12 @@ redirect_from:
 
 I specialize in computational linguistics and natural language processing (NLP), focusing on enhancing models for Portuguese language understanding. My experience includes fine-tuning machine learning models, annotating and analyzing linguistic data, and developing automated tools to support language analysis. I’m dedicated to using data-driven insights to explore language complexity, improve natural language understanding, and support linguistic research through a combination of quantitative analysis, corpus linguistics, and programming.
 
+#  📖 Education
+- *2025 - 2026*, **Master's degree in Education candidate in the Learning Design, Innovation, and Technology program**. Harvard Univeristy, Cambridge-MA. Advisor: Karen Brennan.
+- *2016 - 2018*, **Master's Degree in Applied Linguistics**. Universidade Federal de Minas Gerais, Belo Horizonte-MG
+*Thesis*: [Lexical Bundles in Sections of Applied Linguistics Research Articles](https://repositorio.ufmg.br/bitstream/1843/LETR-AXAJP5/1/dissertacao_mestrado_luciana_dias_de_macedo_2018__1_.pdf): Advisor: Prof. Deise Dutra. 
+- *2006 - 2010*, **Bachelor's Degree in English**. Universidade Federal de Minas Gerais, Belo Horizonte-MG
+
 #  📄 Publications 
 - Erjavec, T. et al. [ParlaMint: Comparable Corpora of European Parliamentary Data](https://epubl.ktu.edu/object/elaba:108748986/). CLARIN, 2021.
 
@@ -45,12 +51,6 @@ I specialize in computational linguistics and natural language processing (NLP),
 
 - volunteer researcher in the analysis of academic writing in the humanities with Professor Deise Dutra and Professor Tony Berber Sardinha.
 
-#  📖 Education
-- *2025 - 2026*, **Master's degree in Education candidate in the Learning Design, Innovation, and Technology program**. Harvard Univeristy, Cambridge-MA
-*Thesis*: [Lexical Bundles in Sections of Applied Linguistics Research Articles](https://repositorio.ufmg.br/bitstream/1843/LETR-AXAJP5/1/dissertacao_mestrado_luciana_dias_de_macedo_2018__1_.pdf): Advisor: Prof. Deise Dutra.
-- *2016 - 2018*, **Master's Degree in Applied Linguistics**. Universidade Federal de Minas Gerais, Belo Horizonte-MG
-*Thesis*: [Lexical Bundles in Sections of Applied Linguistics Research Articles](https://repositorio.ufmg.br/bitstream/1843/LETR-AXAJP5/1/dissertacao_mestrado_luciana_dias_de_macedo_2018__1_.pdf): Advisor: Prof. Deise Dutra. 
-- *2006 - 2010*, **Bachelor's Degree in English**. Universidade Federal de Minas Gerais, Belo Horizonte-MG
 
 #  📋 Link to CV
 

@@ -3,6 +3,9 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
+  - title: "Education"
+    url: "/#-education"
+
   - title: "Publications"
     url: "/#-publications"
 
@@ -14,9 +17,6 @@ main:
 
   - title: "Current Projects"
     url: "/#-current-projects"
-
-  - title: "Education"
-    url: "/#-education"
   
   - title: "Link to CV"
     url: "/#-link-to-cv"
