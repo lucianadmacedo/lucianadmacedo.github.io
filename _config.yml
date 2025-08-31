@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Luciana Dias de Macedo"
   avatar           : "images/luciana_profile.png"
-  bio              : "MA in Applied Linguistics (UFMG)"
-  location         : "Philadelphia PA"
-  CV               : "_pages/LucianaDMacedo_CL_CV.pdf"
+  bio              : "Ed.M. candidate at Harvard Graduate School of Education"
+  location         : "Cambridge MA"
+  CV               : "_pages/LucianaDMacedo_CL_CV_2025.pdf"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=_iXeRwIAAAAJ&hl=en"
-  email            : "lucianadiasdemacedo@gmail.com"
+  email            : "lucianadiasdemacedo@gse.harvard.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

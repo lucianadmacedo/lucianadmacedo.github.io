@@ -46,6 +46,8 @@ I specialize in computational linguistics and natural language processing (NLP),
 - volunteer researcher in the analysis of academic writing in the humanities with Professor Deise Dutra and Professor Tony Berber Sardinha.
 
 #  📖 Education
+- *2025 - 2026*, **Master's degree in Education candidate in the Learning Design, Innovation, and Technology program**. Harvard Univeristy, Cambridge-MA
+*Thesis*: [Lexical Bundles in Sections of Applied Linguistics Research Articles](https://repositorio.ufmg.br/bitstream/1843/LETR-AXAJP5/1/dissertacao_mestrado_luciana_dias_de_macedo_2018__1_.pdf): Advisor: Prof. Deise Dutra.
 - *2016 - 2018*, **Master's Degree in Applied Linguistics**. Universidade Federal de Minas Gerais, Belo Horizonte-MG
 *Thesis*: [Lexical Bundles in Sections of Applied Linguistics Research Articles](https://repositorio.ufmg.br/bitstream/1843/LETR-AXAJP5/1/dissertacao_mestrado_luciana_dias_de_macedo_2018__1_.pdf): Advisor: Prof. Deise Dutra. 
 - *2006 - 2010*, **Bachelor's Degree in English**. Universidade Federal de Minas Gerais, Belo Horizonte-MG
@@ -53,7 +55,7 @@ I specialize in computational linguistics and natural language processing (NLP),
 #  📋 Link to CV
 
 <div class="badge">
-  <a href="{{ site.baseurl }}/_pages/LucianaDMacedo_CL_CV.pdf" target="_blank" style="color: inherit; text-decoration: none;">
+  <a href="{{ site.baseurl }}/_pages/LucianaDMacedo_CL_CV_2025.pdf" target="_blank" style="color: inherit; text-decoration: none;">
     My CV (PDF)
   </a>
 </div>
