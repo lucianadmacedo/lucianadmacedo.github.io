@@ -52,15 +52,6 @@ I specialize in computational linguistics and natural language processing (NLP),
 - volunteer researcher in the analysis of academic writing in the humanities with Professor Deise Dutra and Professor Tony Berber Sardinha.
 
 
-#  📋 Link to CV
-
-<div class="badge">
-  <a href="{{ site.baseurl }}/_pages/LucianaDMacedo_CL_CV_2025.pdf" target="_blank" style="color: inherit; text-decoration: none;">
-    My CV (PDF)
-  </a>
-</div>
-
-
 <!-- Your Markdown content -->
 
 <div style="height: 100px;"></div>
