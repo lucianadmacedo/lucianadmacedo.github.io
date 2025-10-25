@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I specialize in computational linguistics and natural language processing (NLP), focusing on enhancing models for Portuguese language understanding. My experience includes fine-tuning machine learning models, annotating and analyzing linguistic data, and developing automated tools to support language analysis. I’m dedicated to using data-driven insights to explore language complexity, improve natural language understanding, and support linguistic research through a combination of quantitative analysis, corpus linguistics, and programming.
+I am an Ed.M. candidate in Learning Design, Innovation, and Technology at Harvard University. My interests include education research, computational linguistics, and NLP for Portuguese. I have experience with linguistic data, annotation, and programming tools, and am interested in using quantitative methods to support language research and education.
 
 #  📖 Education
 - *2025 - 2026*, **Master's degree in Education candidate in the Learning Design, Innovation, and Technology program**. Harvard Univeristy, Cambridge-MA. Advisor: Karen Brennan.
